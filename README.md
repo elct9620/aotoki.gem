@@ -1,6 +1,6 @@
 # Aotoki
 
-TODO: Write a gem description
+Nothing in this gem, just a practice.
 
 ## Installation
 
@@ -16,9 +16,11 @@ Or install it yourself as:
 
     $ gem install aotoki
 
+
 ## Usage
 
-TODO: Write usage instructions here
+Current only support run `aotoki` command.
+
 
 ## Contributing
 
@@ -27,3 +29,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
