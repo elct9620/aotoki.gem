@@ -1,5 +1,8 @@
 require "aotoki/version"
 
 module Aotoki
-  # Your code goes here...
+  def self.gretting
+    puts "Hello, I am Aotoki."
+    puts "I from Taiwan, I am a Web Designer and Front-End Developer."
+  end
 end
